@@ -1,0 +1,2 @@
+En el archivo curl.controller.php se debe modificar dentro de la funcion api la ruta al dominio de la api que corresponda.
+Se debe cambiar la linea en template.controller.php, en la funcion path y colocar el dominio que corresponda.
